@@ -42,10 +42,9 @@ namespace Semana05_FunAlg_13126
             Console.WriteLine("La suma de los cuadrados es: " + sumacubos);
 
             // Hallar la suma de los n primeros numeros naturales pares
-            int n1, sumapares;
+            int n1;
             Console.Write("Ingrese numero de elementos: ");
             n1 = int.Parse(Console.ReadLine());
-            sumapares = 0;
 
             //n1=10
             for(int i = 1; i <= n1; i++)
