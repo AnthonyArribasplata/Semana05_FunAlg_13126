@@ -20,6 +20,7 @@ namespace Ejercicio2
 
             int num;
             int suma=0;
+            int restar=0;
 
             Console.Write("Ingrese numero: ");
             num = int.Parse(Console.ReadLine());
